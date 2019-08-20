@@ -1,0 +1,8 @@
+[
+    { "timestamp": "2019-08-20T03:46",
+      "link": "https://thoughtbot.com/blog/iterative-development-in-elm-http",
+      "description": "This is a technique I've been using a lot in my current Elm project that integrates with a GraphQL API: keep tighter iteration cycles by initially faking the HTTP request with a sleep.",
+      "author": "joelq",
+      "source": "https://elmlang.slack.com"
+    }
+]
